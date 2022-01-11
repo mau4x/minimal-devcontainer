@@ -49,13 +49,11 @@ RUN set -x \
         bash-completion \
         curl \
         git \
-        gnupg2 \
         iputils-ping \
         jq \
         less \
         net-tools \
         openssh-client \
-        tar \
         time \
         unzip \
         xz-utils \
